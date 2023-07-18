@@ -8,6 +8,7 @@ public class Git {
          System.out.println("push test");
 
         System.out.println("merge test");
+        System.out.println("main 修改");
 
 
     }
